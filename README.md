@@ -1,6 +1,6 @@
 # Using AnkiWeb to Study Languages
 
-A practical guide to learning vocabulary and phrases with **Anki** and **AnkiWeb**, the free spaced-repetition flashcard system. Fifteen to twenty minutes a day, every day, will build vocabulary faster than occasional long cramming sessions
+A practical guide to learning vocabulary and phrases with **Anki** and **AnkiWeb**, the free spaced-repetition flashcard system. Fifteen to twenty minutes a day, every day, will build vocabulary faster than occasional long cramming sessions.
 
 ## Contents
 
