@@ -14,7 +14,6 @@ A practical guide to learning vocabulary and phrases with **Anki** and **AnkiWeb
 - [Sample Weekly Plan](#sample-weekly-plan)
 - [Quick-Start Checklist](#quick-start-checklist)
 - [Contributing](#contributing)
-- [License](#license)
 
 ---
 
@@ -195,8 +194,4 @@ As a rough guide, 15 new cards a day takes about 20–30 minutes once reviews bu
 
 Suggestions, corrections, and deck recommendations for specific languages are welcome. Open an issue or submit a pull request.
 
----
 
-## License
-
-Released under the [MIT License](LICENSE). You are free to use, modify, and distribute this guide.
